@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="190.1837mm"
+   height="254.9837mm"
+   viewBox="0 0 190.1837 254.9837"
    version="1.1"
    id="svg1"
    sodipodi:docname="dashboard.svg"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.1433196"
-     inkscape:cx="423.32868"
-     inkscape:cy="709.77526"
+     inkscape:cx="390.09215"
+     inkscape:cy="625.80927"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="2869"
@@ -40,9 +40,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-8.8990529,-22.153597)">
     <rect
-       style="fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
        id="rect1"
        width="189.65454"
        height="254.45454"
