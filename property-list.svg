@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="property-list.svg"
+   inkscape:export-filename="property-list.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6168981"
+     inkscape:cx="854.723"
+     inkscape:cy="521.05943"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:0.52916667;stroke-dasharray:none"
+       id="rect1"
+       width="189.65454"
+       height="254.45454"
+       x="9.1636362"
+       y="22.41818" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6249px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="39.783092"
+       y="61.246696"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="39.783092"
+         y="61.246696">Properties</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6249px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="34.332504"
+       y="39.51685"
+       id="text1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-0"
+         style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="34.332504"
+         y="39.51685">AirBNC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="44.071369"
+       y="131.18771"
+       id="text1-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="44.071369"
+         y="131.18771">Property 1 (Apartment)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65145px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="129.04318"
+       y="131.04071"
+       id="text2"
+       transform="scale(1.0000457,0.9999543)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="129.04318"
+         y="131.04071">£50 - £100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-dasharray:none"
+       x="22.478065"
+       y="77.394417"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="text-align:start;text-anchor:start;stroke-width:1.32292"
+         x="22.478065"
+         y="77.394417">Sort:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-dasharray:none"
+       x="74.422173"
+       y="77.055298"
+       id="text3-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-0"
+         style="text-align:start;text-anchor:start;stroke-width:1.32292"
+         x="74.422173"
+         y="77.055298">Filter:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-dasharray:none"
+       x="74.342293"
+       y="37.255379"
+       id="text3-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-1"
+         style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:1.32292"
+         x="74.342293"
+         y="37.255379">Properties</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-dasharray:none"
+       x="172.66472"
+       y="37.585999"
+       id="text3-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-8"
+         style="text-align:start;text-anchor:start;stroke-width:1.32292"
+         x="172.66472"
+         y="37.585999">Profile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-dasharray:none"
+       x="123.99802"
+       y="37.557739"
+       id="text3-5-89"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-3"
+         style="text-align:start;text-anchor:start;stroke-width:1.32292"
+         x="123.99802"
+         y="37.557739">Dashboard</tspan></text>
+    <path
+       id="rect3"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="m 184.17499,127.75855 a 1.173629,1.0573391 0 0 0 0,1.49531 l 1.65976,1.4953 1.65934,-1.49493 5.2e-4,-4e-4 a 1.173629,1.0573391 0 0 0 0,-1.49531 1.173629,1.0573391 0 0 0 -1.65976,0 1.173629,1.0573391 0 0 0 -1.65979,3e-5 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 16.440152,135.17068 H 188.0947"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="39.210911"
+       y="146.21895"
+       id="text1-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-4"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="39.210911"
+         y="146.21895">Property 2 (Studio)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65145px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="127.56815"
+       y="146.07283"
+       id="text2-2"
+       transform="scale(1.0000457,0.9999543)"><tspan
+         sodipodi:role="line"
+         id="tspan2-5"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="127.56815"
+         y="146.07283">£250 - £300</tspan></text>
+    <path
+       id="rect3-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="m 184.17499,142.79007 a 1.173629,1.0573391 0 0 0 0,1.4953 l 1.65976,1.49531 1.65934,-1.49493 5.2e-4,-4e-4 a 1.173629,1.0573391 0 0 0 0,-1.49531 1.173629,1.0573391 0 0 0 -1.65976,0 1.173629,1.0573391 0 0 0 -1.65979,3e-5 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 16.440152,150.20219 H 188.0947"
+       id="path3-6" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="39.321117"
+       y="161.66"
+       id="text1-9-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-4-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="39.321117"
+         y="161.66">Property 3 (House)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65145px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="128.05507"
+       y="161.51483"
+       id="text2-2-4"
+       transform="scale(1.0000457,0.9999543)"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-6"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="128.05507"
+         y="161.51483">£100 - £250</tspan></text>
+    <path
+       id="rect3-8-1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="m 184.17499,158.23139 a 1.173629,1.0573391 0 0 0 0,1.49529 l 1.65976,1.4953 1.65934,-1.49492 5.2e-4,-4e-4 a 1.173629,1.0573391 0 0 0 0,-1.4953 1.173629,1.0573391 0 0 0 -1.65976,0 1.173629,1.0573391 0 0 0 -1.65979,3e-5 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 16.440152,165.64348 H 188.0947"
+       id="path3-6-8" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="44.656322"
+       y="177.20338"
+       id="text1-9-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-4-6"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="44.656322"
+         y="177.20338">Property 4 (Apartment)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65145px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="128.31546"
+       y="177.05911"
+       id="text2-2-2"
+       transform="scale(1.0000457,0.9999543)"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-9"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="128.31546"
+         y="177.05911">£150 - £200</tspan></text>
+    <path
+       id="rect3-8-5"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="m 184.17499,173.77496 a 1.173629,1.0573391 0 0 0 0,1.49529 l 1.65976,1.4953 1.65934,-1.49492 5.2e-4,-4e-4 a 1.173629,1.0573391 0 0 0 0,-1.4953 1.173629,1.0573391 0 0 0 -1.65976,0 1.173629,1.0573391 0 0 0 -1.65979,3e-5 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 16.440152,181.18704 H 188.09469"
+       id="path3-6-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:0.2;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="39.355026"
+       y="193.5517"
+       id="text1-9-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-7-4-8"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+         x="39.355026"
+         y="193.5517">Property 5 (House)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65145px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none"
+       x="127.73415"
+       y="193.40816"
+       id="text2-2-1"
+       transform="scale(1.0000457,0.9999543)"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-95"
+         style="fill:#000000;stroke:none;stroke-width:1.32292"
+         x="127.73415"
+         y="193.40816">£500 - £1000</tspan></text>
+    <path
+       id="rect3-8-3"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="m 184.17499,190.12325 a 1.173629,1.0573391 0 0 0 0,1.49529 l 1.65976,1.4953 1.65934,-1.49492 5.2e-4,-4e-4 a 1.173629,1.0573391 0 0 0 0,-1.4953 1.173629,1.0573391 0 0 0 -1.65976,0 1.173629,1.0573391 0 0 0 -1.65979,3e-5 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 16.440152,197.53534 H 188.0947"
+       id="path3-6-25" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect4"
+       width="27.981819"
+       height="32.890907"
+       x="19.038994"
+       y="81.053436" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="20.051804"
+       y="93.900017"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="20.051804"
+         y="93.900017">Min Price</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="20.311779"
+       y="86.940834"
+       id="text4-82"><tspan
+         sodipodi:role="line"
+         id="tspan4-5"
+         style="font-weight:bold;fill:#000000;stroke:none;stroke-width:0.529167"
+         x="20.311779"
+         y="86.940834">Order</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="20.051804"
+       y="100.87288"
+       id="text4-7"><tspan
+         sodipodi:role="line"
+         id="tspan4-7"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="20.051804"
+         y="100.87288">Max Price</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="20.436125"
+       y="106.6937"
+       id="text4-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-9"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="20.436125"
+         y="106.6937">Type</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect4-5"
+       width="32.727272"
+       height="24.872726"
+       x="87.453125"
+       y="84.916092" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="90.572823"
+       y="91.941849"
+       id="text4-8"><tspan
+         sodipodi:role="line"
+         id="tspan4-2"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="90.572823"
+         y="91.941849">Apartment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="90.727463"
+       y="99.443802"
+       id="text4-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-4"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="90.727463"
+         y="99.443802">Studio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="90.462868"
+       y="106.32296"
+       id="text4-7-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-9-1"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="90.462868"
+         y="106.32296">House</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="20.051804"
+       y="112.51912"
+       id="text4-7-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-9-5"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="20.051804"
+         y="112.51912">Favourited</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="136.39482"
+       y="90.222664"
+       id="text4-9"><tspan
+         sodipodi:role="line"
+         id="tspan4-6"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="136.39482"
+         y="90.222664">Min Price</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="136.39482"
+       y="99.409889"
+       id="text4-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-99"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="136.39482"
+         y="99.409889">Max Price</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="73.536446"
+       y="89.810623"
+       id="text4-7-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-9-6"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="73.536446"
+         y="89.810623">Type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.65171px;font-family:'Atkinson Hyperlegible Next';-inkscape-font-specification:'Atkinson Hyperlegible Next';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       x="136.39482"
+       y="108.76519"
+       id="text4-7-1-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-9-5-3"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="136.39482"
+         y="108.76519">Favourited</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect6"
+       width="18.981817"
+       height="6.0545454"
+       x="164.24202"
+       y="95.230362" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect6-3"
+       width="18.981817"
+       height="6.0545454"
+       x="164.24202"
+       y="86.038467" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect7"
+       width="7.363636"
+       height="7.0363631"
+       x="164.24202"
+       y="103.69058" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="m 65.618182,70.62312 v 40.74551"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 16.440152,79.372362 H 188.58561"
+       id="path8" />
+  </g>
+</svg>
